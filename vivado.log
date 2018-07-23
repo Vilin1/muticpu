@@ -1,0 +1,33 @@
+#-----------------------------------------------------------
+# Vivado v2015.2 (64-bit)
+# SW Build 1266856 on Fri Jun 26 16:35:25 MDT 2015
+# IP Build 1264090 on Wed Jun 24 14:22:01 MDT 2015
+# Start of session at: Sun Jun 10 22:26:46 2018
+# Process ID: 11732
+# Log file: D:/vivado/myMCPU/vivado.log
+# Journal file: D:/vivado/myMCPU\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/vivado/myMCPU/CPU.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/AppTool/vivado2015.2/Vivado/2015.2/data/ip'.
+close [ open D:/vivado/myMCPU/CPU.srcs/sources_1/new/IR.v w ]
+add_files D:/vivado/myMCPU/CPU.srcs/sources_1/new/IR.v
+update_compile_order -fileset sources_1
+close [ open D:/vivado/myMCPU/CPU.srcs/sources_1/new/ALUoutDR.v w ]
+add_files D:/vivado/myMCPU/CPU.srcs/sources_1/new/ALUoutDR.v
+update_compile_order -fileset sources_1
+close [ open D:/vivado/myMCPU/CPU.srcs/sources_1/new/ADR.v w ]
+add_files D:/vivado/myMCPU/CPU.srcs/sources_1/new/ADR.v
+update_compile_order -fileset sources_1
+close [ open D:/vivado/myMCPU/CPU.srcs/sources_1/new/BDR.v w ]
+add_files D:/vivado/myMCPU/CPU.srcs/sources_1/new/BDR.v
+update_compile_order -fileset sources_1
+close [ open D:/vivado/myMCPU/CPU.srcs/sources_1/new/DBDR.v w ]
+add_files D:/vivado/myMCPU/CPU.srcs/sources_1/new/DBDR.v
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon Jun 11 00:08:42 2018...

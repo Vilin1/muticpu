@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Vivado v2015.2 (64-bit)
+# SW Build 1266856 on Fri Jun 26 16:35:25 MDT 2015
+# IP Build 1264090 on Wed Jun 24 14:22:01 MDT 2015
+# Start of session at: Thu May 24 21:23:42 2018
+# Process ID: 8408
+# Log file: D:/vivado/CPU/vivado.log
+# Journal file: D:/vivado/CPU\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/vivado/CPU/CPU.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/AppTool/vivado2015.2/Vivado/2015.2/data/ip'.
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu May 24 21:35:26 2018...
